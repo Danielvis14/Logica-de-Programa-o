@@ -1,22 +1,22 @@
 Algoritmo "ExercicioFaccat09"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   :  Jailson Santos
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Daniel De Jesus Oliveira
 // Data atual  : 04/03/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 salario:inteiro
 reajuste:real
 salarioatualizado:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-Escreva("Qual seu salário atual? ")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+Escreva("Qual seu salÃ¡rio atual? ")
 Leia(salario)
 Escreva("Qual a porcentagem de seu reajuste? ")
 Leia(reajuste)
 salarioatualizado<-(salario*reajuste)/100 + (salario)
-Escreva("Seu salário no próximo mês será de: ",salarioatualizado," reais")
+Escreva("Seu salÃ¡rio no prÃ³ximo mÃªs serÃ¡ de: ",salarioatualizado," reais")
 
 Fimalgoritmo
