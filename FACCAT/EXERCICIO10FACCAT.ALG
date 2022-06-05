@@ -1,17 +1,17 @@
 Algoritmo "Exercicio10Faccat"
-// Disciplina : [LÛgica de ProgramaÁ„o e JavaScript]
+// Disciplina : [L√≥gica de Programa√ß√£o e JavaScript]
 // Professor : Jailson Costa dos Santos
-// DescriÁ„o : O custo de um carro novo ao consumidor È a soma do custo de
-// f·brica com a porcentagem do distribuidor e dos impostos (aplicados ao
-// custo de f·brica). Supondo que o percentual do distribuidor seja de 28% e
-// os impostos de 45%, escrever um algoritmo para ler o custo de f·brica de
+// Descri√ß√£o : O custo de um carro novo ao consumidor √© a soma do custo de
+// f√°brica com a porcentagem do distribuidor e dos impostos (aplicados ao
+// custo de f√°brica). Supondo que o percentual do distribuidor seja de 28% e
+// os impostos de 45%, escrever um algoritmo para ler o custo de f√°brica de
 // um carro, calcular e escrever o custo final ao consumidor.
-// Autor(a) : Nome do(a) aluno(a)
+// Autor(a) : Daniel De Jesus Oliveira
 // Data atual : 29/03/2022
 
 Var
 
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
 
    custoAutomovel:real
 
@@ -21,9 +21,9 @@ Var
 
 Inicio
 
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
 
-   Escreval("Digite o valor do custo de fabricaÁ„o do automovel")
+   Escreval("Digite o valor do custo de fabrica√ß√£o do automovel")
 
    Leia(custoAutomovel)
 
